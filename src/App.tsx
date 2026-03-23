@@ -101,7 +101,7 @@ const HelpModal = ({ onClose }: { onClose: () => void }) => (
         {/* GitHub */}
         <section className="flex items-center gap-3 pt-2 border-t border-outline-variant/20">
           <span className="material-symbols-outlined text-on-surface-variant text-base">open_in_new</span>
-          <a href="https://github.com/isolatedoldsoul/aws-arsenal" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline text-sm">
+          <a href="https://github.com/CloudArsenal/aws-arsenal" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline text-sm">
             GitHub — Full setup and configuration guide
           </a>
         </section>
